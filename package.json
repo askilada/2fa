@@ -1,0 +1,18 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc -w",
+    "start": "node dist"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.20",
+    "typescript": "^3.7.3"
+  },
+  "dependencies": {
+    "base32": "^0.0.6",
+    "hi-base32": "^0.5.0"
+  }
+}
