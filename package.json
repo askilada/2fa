@@ -4,6 +4,10 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/askilada/2fa.git"
+  },
   "scripts": {
     "dev": "tsc -w",
     "start": "node dist"
